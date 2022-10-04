@@ -14,7 +14,7 @@ Tabela de conteúdos
     * [Conceitos](#Conceitos)
     * [Fotos](#Fotos)
   * [Instalação](#Instalação)
-
+  * [Tecnologias](#tecnologias)
 <!--te-->
 
 # Sobre
@@ -23,15 +23,7 @@ Tabela de conteúdos
 
 # Conceitos
 
- Assim como muitas linguagens atuais a linguagem em C foi desenvolvida a partie de uma outra linguagem anterior a ela.
- De inicio a linguagem em C se torno amplamente conhecida como linguagem de desenvolvimento de SO (Sistemas Operacionais) Unix.
- Hoje grande parte dos SO são escritos em C.
- A rapida espansão do C em varios SO e tipos diferentes de computadores fez com que surgi se  variantes da propria linguagem que apesar de similares eram incompativeis o que levou a um problema grave de compartibilidade o que foi resolvido mais tarde com a bibliteca padrão do C.
-
-## Fotos
-
- A biblioteca padrão do C foi criada para se resolver grande parte dos problemas de portabilidade que havia na epoca.
- Hoje em dia para se tornar um bom dev em C a dois requisitos a se seguir que são aprender a linguagem e as funções da biblioteca padrão.
+# Fotos
 
 # Instalação
 
